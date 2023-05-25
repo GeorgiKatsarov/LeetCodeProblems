@@ -5,7 +5,12 @@
       "ProjectGuid": "7438afa6-390e-4f73-ab08-220be65d0da9",
       "DisplayName": "RomanToInteger",
       "ColorIndex": 0
+    },
+    "097c3af3-0a80-4a2d-940e-cc8eb8850052": {
+      "ProjectGuid": "097c3af3-0a80-4a2d-940e-cc8eb8850052",
+      "DisplayName": "RomanToInt",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger.csproj", "{7438AFA6-390E-4F73-AB08-220BE65D0DA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToInteger.csproj", "{7438AFA6-390E-4F73-AB08-220BE65D0DA9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RomanToInt", "..\RomanToInt\RomanToInt.pyproj", "{097C3AF3-0A80-4A2D-940E-CC8EB8850052}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{7438AFA6-390E-4F73-AB08-220BE65D0DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7438AFA6-390E-4F73-AB08-220BE65D0DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7438AFA6-390E-4F73-AB08-220BE65D0DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097C3AF3-0A80-4A2D-940E-CC8EB8850052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097C3AF3-0A80-4A2D-940E-CC8EB8850052}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
