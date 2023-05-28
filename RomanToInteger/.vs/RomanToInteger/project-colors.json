@@ -10,7 +10,17 @@
       "ProjectGuid": "097c3af3-0a80-4a2d-940e-cc8eb8850052",
       "DisplayName": "RomanToInt",
       "ColorIndex": 1
+    },
+    "0c52396f-a91f-4194-99b3-9eb43cbd3fb3": {
+      "ProjectGuid": "0c52396f-a91f-4194-99b3-9eb43cbd3fb3",
+      "DisplayName": "LongestCommonPrefix",
+      "ColorIndex": 2
+    },
+    "d305e47a-3d51-4b17-a834-8960563d9235": {
+      "ProjectGuid": "d305e47a-3d51-4b17-a834-8960563d9235",
+      "DisplayName": "LongestCommonPrefixPy",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

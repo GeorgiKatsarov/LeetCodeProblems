@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToIn
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RomanToInt", "..\RomanToInt\RomanToInt.pyproj", "{097C3AF3-0A80-4A2D-940E-CC8EB8850052}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "..\LongestCommonPrefix\LongestCommonPrefix.csproj", "{0C52396F-A91F-4194-99B3-9EB43CBD3FB3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LongestCommonPrefixPy", "..\LongestCommonPrefixPy\LongestCommonPrefixPy.pyproj", "{D305E47A-3D51-4B17-A834-8960563D9235}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,12 @@ Global
 		{7438AFA6-390E-4F73-AB08-220BE65D0DA9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{097C3AF3-0A80-4A2D-940E-CC8EB8850052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{097C3AF3-0A80-4A2D-940E-CC8EB8850052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C52396F-A91F-4194-99B3-9EB43CBD3FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C52396F-A91F-4194-99B3-9EB43CBD3FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C52396F-A91F-4194-99B3-9EB43CBD3FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C52396F-A91F-4194-99B3-9EB43CBD3FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D305E47A-3D51-4B17-A834-8960563D9235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D305E47A-3D51-4B17-A834-8960563D9235}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
